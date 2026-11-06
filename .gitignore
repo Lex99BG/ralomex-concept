@@ -1,0 +1,10 @@
+# сурови файлове: сайтът ползва само оптимизираните копия в assets/img
+assets/ralomex/originals/
+assets/ralomex/upscaled/
+assets/generated/*.jpg
+assets/generated/*.jpeg
+assets/generated/*.png
+assets/generated/*.webp
+.DS_Store
+Thumbs.db
+assets/generated/*.mp4
